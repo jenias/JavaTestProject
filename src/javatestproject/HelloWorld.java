@@ -12,6 +12,7 @@ package javatestproject;
  */
 public class HelloWorld {
     public void showText(){
-        System.out.println("Hello World");
+        String str = "Hello World";
+        System.out.println(str);
     }
 }
